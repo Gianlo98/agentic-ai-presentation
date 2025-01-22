@@ -1,4 +1,5 @@
 # AI Trends 2025 🚀
+[View Presentation](https://gianlo98.github.io/agentic-ai-presentation)
 
 A presentation about the future of AI, focusing on Agentic AI and emerging trends for 2025.
 
@@ -15,7 +16,7 @@ This presentation covers:
 
 To view the presentation:
 
-1. Open https://XXX in your web browser
+1. Open [https://gianlo98.github.io/agentic-ai-presentation](https://gianlo98.github.io/agentic-ai-presentation) in your web browser
 2. Use arrow keys or space bar to navigate through slides
 3. Press 'S' to view speaker notes
 4. Press 'F' for fullscreen mode
